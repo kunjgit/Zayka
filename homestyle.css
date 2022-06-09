@@ -1,0 +1,46 @@
+* {
+    color: white;
+    background-color:black;
+    
+}
+
+@font-face {
+    src: url(/fonts/GarbataTrial-Extralight.ttf);
+    font-family: nancy;
+}
+
+@font-face {
+    src: url(fonts/Borsok\ 400.otf);
+    font-family: logofont;
+}
+
+@font-face {
+    src: url(fonts/Chloe-Regular.otf);
+    font-family: taglinefont;
+}
+
+.row {
+    margin-top: 1cm;
+    display: flex;
+}
+
+.logo {
+    width: 5cm;
+    height: 5cm;
+}
+
+g {
+    margin-top: 1cm;
+    line-height: 1cm;
+    flex: auto;
+    font-size: 80px;
+    color: aqua;
+    font-family: logofont;
+}
+
+b {
+    line-height: 70%;
+    font-size: 20px;
+    color: #7ed756;
+    font-family: taglinefont;
+}
