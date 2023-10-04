@@ -9,6 +9,6 @@
 
 **Admin Login Details**
 
-Username: admin
-Password: 123456
+Username: kunj1234
+Password:  kunj12345
 
